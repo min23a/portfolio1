@@ -1,0 +1,170 @@
+body{
+    margin: 0;
+    font-family: Poppins;
+    
+}
+.navigation{
+    height: 60px;
+}
+.nav-div{
+    margin-right: 10px;
+    position: absolute;
+    right: 50px;
+}
+.nav-list{
+    list-style: none;
+    display: flex;
+}
+.nav-item{
+    padding: 5px 15px;
+    font-weight: 600;
+    color: #303235;
+}
+.content{
+    height: 400px;
+    width:90%;
+    margin: 10px auto;
+}
+.half{
+    width: 40%;
+}
+.left{
+    float: left;
+}
+.right{
+    float: right;
+}
+.greet{
+    font-size: 40px;
+    font-weight: 900;
+    color:rgb(44, 40, 40);
+}
+.highlight{
+    color: coral;
+}
+.info{
+    color: rgb(61, 61, 61);
+}
+.btn{
+    color: white;
+    background:linear-gradient(rgb(223, 30, 30) ,rgb(250, 76, 45));
+    border: none;
+    padding: 10px;
+    border-radius: 5px;
+    font-weight: 600 ;
+}
+.btn_link{
+    text-decoration: none;
+    color: white;
+}
+.m_pic{
+    height: 300px;
+    width: 300px;
+}
+.v2{
+    width:325px!important;
+}
+#d-icon{
+    display: inline;
+    height: 15px;
+    width: 20px;
+    padding-right: 5px;
+}
+.showcase{
+    width: 900px;
+    margin:10px auto;
+    text-align: center;
+    line-height: 16px;
+}
+.heading{
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+#s_H{
+    margin-bottom: 50px ;
+}
+.container{
+    display: inline-flex;
+}
+.box{
+    background-color: rgba(221, 233, 227, 0.5);
+    height: 300px;
+    width: 250px;
+    box-shadow: 0px 0px 15px black;
+    margin: 0px 30px;
+    border-radius:10px ;
+}
+.work_img{
+    width: 230px;
+    height: 150px;
+    margin: 20px 10px;
+    border-radius: 5px;
+
+}
+.expertise{
+    margin: auto;
+    width: 700px;
+    text-align: center;
+    height: 400px;
+    overflow: hidden;
+}
+.exp-main{
+    display: inline-flex;
+}
+.exp-cont{
+    margin: 20px 10px;
+}
+.circle{
+    background-color: transparent;
+    border-left: 6px solid black;
+    border-top: 20px solid black;
+    border-right: 6px solid black;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    text-align: center;
+    line-height: 1px;
+}
+.cir_p{
+    padding-top: 40px;
+    font-size: 25px;
+    color: rgb(255, 0, 0);
+}
+.chat_cont{
+    width: 620px;
+    
+    margin:50px auto 30px auto;
+}
+.chatbox{
+    background-image: url(IMAGES/ABC.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    color: white;
+    font-weight: 800;
+    height:80px;
+    padding: 50px;
+    
+}
+.disp{
+    display: inline;
+}
+.mr{
+    margin-left: 130px;
+    font-size: 16px;
+    background:linear-gradient(rgb(223, 30, 30) ,rgb(250, 76, 45));
+    padding:10px;
+    border-radius: 5px;
+}
+.footer{
+    font-size: 25px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 30px;
+}
+.greyish{
+    color:rgb(155, 152, 152);
+}
+.s_icon{
+    height:30px;
+    width: 30px;
+}
